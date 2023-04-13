@@ -1,7 +1,9 @@
 <html>
-<body>
-username:<input type="textbox">
-password:<input type="textbox">
-<input type="button" name="submit">
+<body bgcolor="cyan">
+<center>
+username:<input type="textbox"></br>
+password:<input type="textbox"></br>
+<input type="button" value="submit">
+</center>
 </body>
 </html>
